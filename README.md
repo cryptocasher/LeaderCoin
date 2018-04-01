@@ -1,2 +1,2 @@
 # LeaderCoin
-LaederCoin
+LeaderCoin
